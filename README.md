@@ -1,4 +1,4 @@
-# HDR Video to GIF: BT.2020 Tone-Mapped Conversion
+# HDR Video to GIF
 
 This project explores how to convert an HDR-tagged BT.2020 video into a visually similar GIF.
 
