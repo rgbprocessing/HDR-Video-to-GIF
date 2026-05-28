@@ -6,4 +6,4 @@ Default video to GIF conversion produces dull GIFs when generated from an HDR vi
 
 ## Batch conversion
 
-I also wrote a Python function to convert every video in a folder into a GIF using the same tone-mapping pipeline.
+We also include code to batch convert every video in a folder into a GIF using the same tone-mapping pipeline.
