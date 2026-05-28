@@ -1,6 +1,6 @@
 # HDR Video to GIF
 
-This project explores how to convert an HDR-tagged BT.2020 video into a visually similar GIF.
+This project explores how to convert an HDR BT.2020 color space video into a visually similar GIF.
 
 Default video to GIF conversion produces dull GIFs when generated from an HDR video. We used HDR->SDR tone-mapping before generating the GIF palette to produce GIFs much more closely visually aligned with their original HDR videos.
 
